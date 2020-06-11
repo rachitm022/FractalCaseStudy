@@ -1,0 +1,151 @@
+,car,location,delay
+0,Celerio,Delhi,No Waiting
+1,Celerio X,Delhi,No Waiting
+2,Swift,Delhi,No Waiting
+3,Dzire,Delhi,No Waiting
+4,Ertiga,Delhi,6 weeks
+5,Vitara Brezza,Delhi,8 weeks
+6,Celerio,Gurugram,8 weeks
+7,Celerio X,Gurugram,8 weeks
+8,Swift,Gurugram,8 weeks
+9,Dzire,Gurugram,8 weeks
+10,Ertiga,Gurugram,8 weeks
+11,Vitara Brezza,Gurugram,8 weeks
+12,Celerio,Noida,2 weeks
+13,Celerio X,Noida,8 weeks
+14,Swift,Noida,10 weeks
+15,Dzire,Noida,2 weeks
+16,Ertiga,Noida,8 weeks
+17,Vitara Brezza,Noida,4 weeks
+18,Celerio,Bengaluru,45 days
+19,Celerio X,Bengaluru,45 days
+20,Swift,Bengaluru,45 days
+21,Dzire,Bengaluru,45 days
+22,Ertiga,Bengaluru,10 weeks
+23,Vitara Brezza,Bengaluru,7 weeks
+24,Celerio,Mumbai,15 days
+25,Celerio X,Mumbai,20 days
+26,Swift,Mumbai,1 month
+27,Dzire,Mumbai,3 weeks
+28,Ertiga,Mumbai,4 weeks
+29,Vitara Brezza,Mumbai,10 days
+30,Celerio,Hyderabad,No Waiting
+31,Celerio X,Hyderabad,No Waiting
+32,Swift,Hyderabad,2 weeks
+33,Dzire,Hyderabad,No Waiting
+34,Ertiga,Hyderabad,7 weeks
+35,Vitara Brezza,Hyderabad,2 weeks
+36,Celerio,Pune,15 days
+37,Celerio X,Pune,15 days
+38,Swift,Pune,15 days
+39,Dzire,Pune,15 days
+40,Ertiga,Pune,15 days
+41,Vitara Brezza,Pune,15 days
+42,Celerio,Chennai,4 weeks
+43,Celerio X,Chennai,4 weeks
+44,Swift,Chennai,4 weeks
+45,Dzire,Chennai,4 weeks
+46,Ertiga,Chennai,4 weeks
+47,Vitara Brezza,Chennai,4 weeks
+48,Celerio,Jaipur,2 weeks
+49,Celerio X,Jaipur,6 weeks
+50,Swift,Jaipur,4 weeks
+51,Dzire,Jaipur,4 weeks
+52,Ertiga,Jaipur,4 weeks
+53,Vitara Brezza,Jaipur,4 weeks
+54,Celerio,Ahmedabad,No Waiting
+55,Celerio X,Ahmedabad,No Waiting
+56,Swift,Ahmedabad,No Waiting
+57,Dzire,Ahmedabad,No Waiting
+58,Ertiga,Ahmedabad,1 month
+59,Vitara Brezza,Ahmedabad,No Waiting
+60,Celerio,Lucknow,5 weeks
+61,Celerio X,Lucknow,5 weeks
+62,Swift,Lucknow,5 weeks
+63,Dzire,Lucknow,5 weeks
+64,Ertiga,Lucknow,5 weeks
+65,Vitara Brezza,Lucknow,5 weeks
+66,Celerio,Kolkata,6 weeks
+67,Celerio X,Kolkata,4 weeks
+68,Swift,Kolkata,4 weeks
+69,Dzire,Kolkata,2 weeks
+70,Ertiga,Kolkata,3 weeks
+71,Vitara Brezza,Kolkata,4 weeks
+72,Celerio,Chandigarh,4 weeks
+73,Celerio X,Chandigarh,4 weeks
+74,Swift,Chandigarh,4 weeks
+75,Dzire,Chandigarh,4 weeks
+76,Ertiga,Chandigarh,4 weeks
+77,Vitara Brezza,Chandigarh,2 weeks
+78,Celerio,Patna,No waiting
+79,Celerio X,Patna,3 weeks
+80,Swift,Patna,4 weeks
+81,Dzire,Patna,4 weeks
+82,Ertiga,Patna,17 weeks
+83,Vitara Brezza,Patna,9 weeks
+84,Celerio,Indore,5 weeks
+85,Celerio X,Indore,5 weeks
+86,Swift,Indore,5 weeks
+87,Dzire,Indore,5 weeks
+88,Ertiga,Indore,12 weeks
+89,Vitara Brezza,Indore,5 weeks
+90,Ignis,Delhi,1 month
+91,Baleno,Delhi,1 month
+92,Ciaz,Delhi,1 month
+93,S-Cross,Delhi,1 month
+94,Ignis,Gurugram,1 month
+95,Baleno,Gurugram,6 weeks
+96,Ciaz,Gurugram,1 month
+97,S-Cross,Gurugram,1 month
+98,Ignis,Noida,1 month
+99,Baleno,Noida,1 month
+100,Ciaz,Noida,1 month
+101,S-Cross,Noida,1 month
+102,Ignis,Bengaluru,10 days
+103,Baleno,Bengaluru,10 days
+104,Ciaz,Bengaluru,10 days
+105,S-Cross,Bengaluru,10 days
+106,Ignis,Mumbai,6 weeks
+107,Baleno,Mumbai,6 weeks
+108,Ciaz,Mumbai,6 weeks
+109,S-Cross,Mumbai,6 weeks
+110,Ignis,Hyderabad,45 days
+111,Baleno,Hyderabad,45 days
+112,Ciaz,Hyderabad,45 days
+113,S-Cross,Hyderabad,45 days
+114,Ignis,Pune,2 weeks
+115,Baleno,Pune,3 weeks
+116,Ciaz,Pune,3 weeks
+117,S-Cross,Pune,3 weeks
+118,Ignis,Chennai,1 month
+119,Baleno,Chennai,1 month
+120,Ciaz,Chennai,1 month
+121,S-Cross,Chennai,1 month
+122,Ignis,Jaipur,25 days
+123,Baleno,Jaipur,25 days
+124,Ciaz,Jaipur,25 days
+125,S-Cross,Jaipur,25 days
+126,Ignis,Ahmedabad,4 weeks
+127,Baleno,Ahmedabad,4 weeks
+128,Ciaz,Ahmedabad,4 weeks
+129,S-Cross,Ahmedabad,4 weeks
+130,Ignis,Lucknow,4 weeks
+131,Baleno,Lucknow,4 weeks
+132,Ciaz,Lucknow,4 weeks
+133,S-Cross,Lucknow,4 weeks
+134,Ignis,Kolkata,15 days
+135,Baleno,Kolkata,15 days
+136,Ciaz,Kolkata,15 days
+137,S-Cross,Kolkata,15 days
+138,Ignis,Chandigarh,No waiting
+139,Baleno,Chandigarh,6 weeks
+140,Ciaz,Chandigarh,6 weeks
+141,S-Cross,Chandigarh,No waiting
+142,Ignis,Patna,1 month
+143,Baleno,Patna,1 month
+144,Ciaz,Patna,1 month
+145,S-Cross,Patna,1 month
+146,Ignis,Indore,2 weeks
+147,Baleno,Indore,4 weeks
+148,Ciaz,Indore,2 weeks
+149,S-Cross,Indore,2 weeks

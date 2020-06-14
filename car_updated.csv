@@ -1,0 +1,151 @@
+,car,location,delay,price,ARAI Mileage,Engine Displacement (cc),Max Torque (nm@rpm),Seating Capacity,Boot Space (Litres),Body Type,Fuel Type,Max Power (bhp@rpm),TransmissionType,Fuel Tank Capacity,Service Cost (Avg. of 5 years),City Mileage
+1,Baleno,Hyderabad,45 days,"6,86,687",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+2,Baleno,Chandigarh,42 days,"6,36,109",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+3,Baleno,Gurugram,42 days,"6,24,232",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+4,Baleno,Mumbai,42 days,"6,64,625",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+5,Baleno,Chennai,30 days,"6,60,264",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+6,Baleno,Delhi,30 days,"6,18,997",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+7,Baleno,Noida,30 days,"6,38,538",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+8,Baleno,Patna,30 days,"6,53,969",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+9,Baleno,Ahmedabad,28 days,"6,41,352",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+10,Baleno,Indore,28 days,"6,51,245",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+11,Baleno,Lucknow,28 days,"6,49,252",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+12,Baleno,Jaipur,25 days,"6,58,874",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+13,Baleno,Pune,21 days,"6,65,970",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+14,Baleno,Kolkata,15 days,"6,37,440",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+15,Baleno,Bengaluru,10 days,"7,12,141",0,1197,113Nm@4200rpm,5,339,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,"Rs.3,366",0
+16,Celerio,Gurugram,56 days,"4,85,206",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+17,Celerio,Bengaluru,45 days,"5,25,380",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+18,Celerio,Kolkata,42 days,"4,96,147",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+19,Celerio,Indore,35 days,"5,14,606",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+20,Celerio,Lucknow,35 days,"5,04,631",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+21,Celerio,Chandigarh,28 days,"4,95,707",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+22,Celerio,Chennai,28 days,"5,13,995",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+23,Celerio,Mumbai,15 days,"5,20,584",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+24,Celerio,Pune,15 days,"5,18,457",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+25,Celerio,Jaipur,14 days,"5,16,554",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+26,Celerio,Noida,14 days,"4,97,801",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+27,Celerio,Ahmedabad,0 days,"4,98,599",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+28,Celerio,Delhi,0 days,"4,83,484",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+29,Celerio,Hyderabad,0 days,"5,22,419",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+30,Celerio,Patna,0 days,"5,15,355",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67.04bhp@6000rpm,Automatic,35,"Rs.3,608",0
+31,Celerio X,Gurugram,56 days,"5,37,828",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+32,Celerio X,Noida,56 days,"5,51,836",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+33,Celerio X,Bengaluru,45 days,"5,82,005",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+34,Celerio X,Jaipur,42 days,"5,70,349",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+35,Celerio X,Indore,35 days,"5,70,360",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+36,Celerio X,Lucknow,35 days,"5,59,110",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+37,Celerio X,Chandigarh,28 days,"5,49,207",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+38,Celerio X,Chennai,28 days,"5,69,501",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+39,Celerio X,Kolkata,28 days,"5,49,697",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+40,Celerio X,Patna,21 days,"5,70,370",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+41,Celerio X,Mumbai,20 days,"5,76,189",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+42,Celerio X,Pune,15 days,"5,74,452",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+43,Celerio X,Ahmedabad,0 days,"5,51,851",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+44,Celerio X,Delhi,0 days,"5,35,587",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+45,Celerio X,Hyderabad,0 days,"5,74,592",21.63 kmpl,998,90Nm@3500rpm,5,235,Hatchback,Petrol,67bhp@6000rpm,Automatic,35,"Rs.2,865",0
+46,Ciaz,Hyderabad,45 days,"9,94,425",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+47,Ciaz,Chandigarh,42 days,"9,24,821",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+48,Ciaz,Mumbai,42 days,"9,60,529",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+49,Ciaz,Chennai,30 days,"9,57,392",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+50,Ciaz,Delhi,30 days,"9,29,062",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+51,Ciaz,Gurugram,30 days,"9,36,789",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+52,Ciaz,Noida,30 days,"9,35,513",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+53,Ciaz,Patna,30 days,"9,56,534",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+54,Ciaz,Ahmedabad,28 days,"9,19,200",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+55,Ciaz,Lucknow,28 days,"9,38,291",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+56,Ciaz,Jaipur,25 days,"9,62,313",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+57,Ciaz,Pune,21 days,"9,65,712",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+58,Ciaz,Kolkata,15 days,"9,24,113",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+59,Ciaz,Indore,14 days,"9,38,001",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+60,Ciaz,Bengaluru,10 days,"10,28,029",20.04 kmpl,1462,138Nm@4400rpm,5,510,Sedan,Petrol,103.25bhp@6000rpm,Automatic,43,"Rs.3,242",0
+61,Dzire,Gurugram,56 days,"6,49,760",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+62,Dzire,Bengaluru,45 days,"7,02,688",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+63,Dzire,Indore,35 days,"6,68,849",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+64,Dzire,Lucknow,35 days,"6,68,791",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+65,Dzire,Chandigarh,28 days,"6,57,011",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+66,Dzire,Chennai,28 days,"6,81,178",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+67,Dzire,Jaipur,28 days,"6,81,724",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+68,Dzire,Patna,28 days,"6,81,865",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+69,Dzire,Mumbai,21 days,"6,87,068",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+70,Dzire,Pune,15 days,"6,87,068",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+71,Dzire,Kolkata,14 days,"6,57,618",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+72,Dzire,Noida,14 days,"6,66,624",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+73,Dzire,Ahmedabad,0 days,"6,57,618",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+74,Dzire,Delhi,0 days,"6,46,809",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+75,Dzire,Hyderabad,0 days,"6,80,052",24.12 kmpl,1197,113Nm@4400rpm,5,378,Sedan,Petrol,88.50bhp@6000rpm,Automatic,37,"Rs.2,949",0
+76,Ertiga,Indore,84 days,"8,64,315",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+77,Ertiga,Bengaluru,70 days,"9,01,545",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+78,Ertiga,Gurugram,56 days,"8,55,615",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+79,Ertiga,Noida,56 days,"8,54,619",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+80,Ertiga,Hyderabad,49 days,"8,81,828",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+81,Ertiga,Delhi,42 days,"8,50,531",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+82,Ertiga,Lucknow,35 days,"8,58,472",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+83,Ertiga,Ahmedabad,30 days,"8,42,708",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+84,Ertiga,Chandigarh,28 days,"8,43,292",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+85,Ertiga,Chennai,28 days,"8,74,435",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+86,Ertiga,Jaipur,28 days,"8,82,158",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+87,Ertiga,Mumbai,28 days,"8,82,572",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+88,Ertiga,Kolkata,21 days,"8,44,075",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+89,Ertiga,Pune,15 days,"8,82,025",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+90,Ertiga,Patna,119 days,"8,73,791",17.99 kmpl,1462,138Nm@4400rpm,7,209,MUV,Petrol,103bhp@6000rpm,Automatic,45,"Rs.3,949",0
+91,Ignis,Hyderabad,45 days,"5,91,363",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+92,Ignis,Mumbai,42 days,"5,67,805",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+93,Ignis,Chennai,30 days,"5,67,862",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+94,Ignis,Delhi,30 days,"5,39,920",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+95,Ignis,Gurugram,30 days,"5,44,365",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+96,Ignis,Noida,30 days,"5,57,571",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+97,Ignis,Patna,30 days,"5,62,464",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+98,Ignis,Ahmedabad,28 days,"5,48,289",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+99,Ignis,Lucknow,28 days,"5,59,367",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+100,Ignis,Jaipur,25 days,"5,67,781",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+101,Ignis,Kolkata,15 days,"5,48,289",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+102,Ignis,Indore,14 days,"5,60,683",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+103,Ignis,Pune,14 days,"5,72,755",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+104,Ignis,Bengaluru,10 days,"6,05,963",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+105,Ignis,Chandigarh,0 days,"5,47,785",20.89 kmpl,1197,113Nm@4200rpm,5,260,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,32,0,14.65 kmpl
+106,S-Cross,Hyderabad,45 days,"10,52,572",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+107,S-Cross,Mumbai,42 days,"10,36,696",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+108,S-Cross,Chennai,30 days,"10,12,771",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+109,S-Cross,Delhi,30 days,"10,00,437",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+110,S-Cross,Gurugram,30 days,"9,93,083",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+111,S-Cross,Noida,30 days,"9,90,129",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+112,S-Cross,Patna,30 days,"10,11,863",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+113,S-Cross,Ahmedabad,28 days,"9,72,181",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+114,S-Cross,Lucknow,28 days,"9,94,249",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+115,S-Cross,Jaipur,25 days,"10,45,118",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+116,S-Cross,Pune,21 days,"10,39,192",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+117,S-Cross,Kolkata,15 days,"9,77,544",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+118,S-Cross,Indore,14 days,"9,93,773",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+119,S-Cross,Bengaluru,10 days,"10,61,561",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+120,S-Cross,Chandigarh,0 days,"9,77,800",25.1 kmpl,1248,200Nm@1750rpm,5,353,SUV,Diesel,88.5bhp@4000rpm,Manual,48,"Rs.4,875",19.16 kmpl
+121,Swift,Noida,70 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+122,Swift,Gurugram,56 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+123,Swift,Bengaluru,45 days,"5,18,999",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+124,Swift,Indore,35 days,"5,19,052",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+125,Swift,Lucknow,35 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+126,Swift,Mumbai,30 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+127,Swift,Chandigarh,28 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+128,Swift,Chennai,28 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+129,Swift,Jaipur,28 days,"5,18,690",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+130,Swift,Kolkata,28 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+131,Swift,Patna,28 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+132,Swift,Pune,15 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+133,Swift,Hyderabad,14 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+134,Swift,Ahmedabad,0 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+135,Swift,Delhi,0 days,"5,19,000",21.21 kmpl,1197,113Nm@4200rpm,5,268,Hatchback,Petrol,81.80bhp@6000rpm,Automatic,37,0,0
+136,Vitara Brezza,Patna,63 days,"8,51,440",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+137,Vitara Brezza,Delhi,56 days,"8,24,347",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+138,Vitara Brezza,Gurugram,56 days,"8,29,217",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+139,Vitara Brezza,Bengaluru,49 days,"8,72,303",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+140,Vitara Brezza,Indore,35 days,"8,39,799",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+141,Vitara Brezza,Lucknow,35 days,"8,30,578",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+142,Vitara Brezza,Chennai,28 days,"8,46,015",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+143,Vitara Brezza,Jaipur,28 days,"8,52,874",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+144,Vitara Brezza,Kolkata,28 days,"8,16,655",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+145,Vitara Brezza,Noida,28 days,"8,28,249",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+146,Vitara Brezza,Pune,15 days,"8,53,355",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+147,Vitara Brezza,Chandigarh,14 days,"8,15,898",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+148,Vitara Brezza,Hyderabad,14 days,"8,53,490",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+149,Vitara Brezza,Mumbai,10 days,"8,53,418",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
+150,Vitara Brezza,Ahmedabad,0 days,"8,12,918",18.76 kmpl,1462,138nm@4400rpm,5,328,SUV,Petrol,103.2bhp@6000rpm,Automatic,48,"Rs.3,658",0
